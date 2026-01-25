@@ -1,4 +1,15 @@
-# IRREVOCULL
+```
+PRIM-002
+IRREVOCULL
+Irreversible judgment
+
+STATUS: REGISTERED
+REGISTRY: https://speedkit.eu
+```
+
+Registered artifact. Identity governed by SPEEDKIT registry.
+
+---
 
 IRREVOCULL renders irreversible judgments.
 
